@@ -1,0 +1,30 @@
+{
+    "name": "hello-word-aurelia",
+    "email": "barcelos.cbc@gmail.com",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/barceloscbc/hello-world-aurelia.git"
+    },
+    "bugs": {
+        "url": "https://github.com/barceloscbc/hello-world-aurelia/issues"
+    },
+    "homepage": "https://github.com/ashleygwilliams/my_package",
+    "description": "Conhecendo Aurelia Framework, configurar ambiente e executar um simples código.",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "Cleber Barcelos",
+    "license": "ISC",
+    "dependencies":{
+        "jspm":"0.16.36"
+    },
+    "devDependencies": {
+        "grunt": "~0.4.5",
+        "grunt-contrib-jshint": "~0.10.0",
+        "grunt-contrib-nodeunit": "~0.4.1",
+        "grunt-contrib-uglify": "~0.5.0"
+    }
+}
